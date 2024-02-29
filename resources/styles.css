@@ -30,3 +30,7 @@ td {
     font-family: monospace;
     background-color: beige;
 }
+
+p  {
+    text-align: center;
+}
